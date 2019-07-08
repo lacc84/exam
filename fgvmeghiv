@@ -1,0 +1,14 @@
+const calculator = require('./calculator.js');
+
+const oszz = calculator.add;
+const kiv = calculator.kiv;
+const kiv = calculator.kiv;
+const kiv = calculator.mul;
+const kiv = calculator.div;
+const kiv = calculator.muvelet;
+
+console.log(muvelet(2, 2, add));
+console.log(muvelet(2, 2, kiv));
+console.log(muvelet(2, 2, mul));
+console.log(muvelet(2, 2, div));
+
